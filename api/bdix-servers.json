@@ -68,8 +68,8 @@
             "speedSpan": "amrbdSpeed"
         },
 	{
-            "ServerName": "HD Movies",
-            "Address": "https://45.250.20.254",
+            "ServerName": "Patalpuri FTP",
+            "Address": "http://45.250.20.254",
             "Description": "🎬 Movie",
             "Rating": "⭐⭐⭐",
             "ResultSpan": "hdmovies",
