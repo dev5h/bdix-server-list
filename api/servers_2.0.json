@@ -1,0 +1,830 @@
+[
+    {
+        "server_name": "ABCMovies",
+        "url": "http://103.103.239.66/",
+        "type": "movie",
+        "rating": 1
+    },
+    {
+        "server_name": "Alpha Streaming",
+        "url": "http://alphamediazone.com/moviedom/",
+        "type": "movie",
+        "rating": 0
+    },
+    {
+        "server_name": "Alive Network",
+        "url": "http://172.127.27.102/",
+        "type": "ftp",
+        "rating": 0
+    },
+    {
+        "server_name": "Alivenet Bogura FTP",
+        "url": "http://103.135.134.226/",
+        "type": "ftp",
+        "rating": 0
+    },
+    {
+        "server_name": "Alpha Media Zone",
+        "url": "http://ftp.alphamediazone.com/",
+        "type": "ftp",
+        "rating": 0
+    },
+    {
+        "server_name": "Alpha Media Zone TV",
+        "url": "http://tv.alphamediazone.com/",
+        "type": "tv",
+        "rating": 0
+    },
+    {
+        "server_name": "AjobNet",
+        "url": "http://103.106.59.226:8096/",
+        "type": "movie",
+        "rating": 0
+    },
+    {
+        "server_name": "Amrbd",
+        "url": "http://bdtv.live/",
+        "type": "tv",
+        "rating": 1
+    },
+    {
+        "server_name": "Patalpuri FTP",
+        "url": "http://45.250.20.254",
+        "type": "movie",
+        "rating": 3
+    },
+    {
+        "server_name": "Amrbd Live TV",
+        "url": "http://amrbd.com/",
+        "type": "tv",
+        "rating": 1
+    },
+    {
+        "server_name": "ANT TV",
+        "url": "http://172.17.50.112/",
+        "type": "tv",
+        "rating": 1
+    },
+    {
+        "server_name": "B Net",
+        "url": "http://103.58.73.13/",
+        "type": "ftp",
+        "rating": 2
+    },
+    {
+        "server_name": "Bangla Flix",
+        "url": "http://banglaflix.com.bd/",
+        "type": "movie",
+        "rating": 2
+    },
+    {
+        "server_name": "Barua Cybernet",
+        "url": "http://12.1.1.3/",
+        "type": "movie",
+        "rating": 2
+    },
+    {
+        "server_name": "Barua Local",
+        "url": "http://12.1.1.1/",
+        "type": "ftp",
+        "rating": 3
+    },
+    {
+        "server_name": "BAS network",
+        "url": "http://103.87.212.46",
+        "type": "movie",
+        "rating": 4
+    },
+    {
+        "server_name": "Beeflix",
+        "url": "http://beeflix.biz/",
+        "type": "movie",
+        "rating": 1
+    },
+    {
+        "server_name": "BD Broadband",
+        "url": "http://bdbroadband.com/ftp/",
+        "type": "movie",
+        "rating": 1
+    },
+    {
+        "server_name": "BD Fun",
+        "url": "http://www.bdfun.club/",
+        "type": "movie",
+        "rating": 0
+    },
+    {
+        "server_name": "BDIP TV",
+        "url": "http://bdiptv.com/",
+        "type": "tv",
+        "rating": 0
+    },
+    {
+        "server_name": "BDIX FTP 1",
+        "url": "http://45.120.114.222/",
+        "type": "ftp",
+        "rating": 0
+    },
+    {
+        "server_name": "BDIX FTP 2",
+        "url": "http://103.229.18.142/",
+        "type": "ftp",
+        "rating": 0
+    },
+    {
+        "server_name": "BDIX Sports",
+        "url": "http://103.114.36.14/",
+        "type": "tv",
+        "rating": 0
+    },
+    {
+        "server_name": "BDIX TV",
+        "url": "http://bdixtv.live/",
+        "type": "tv",
+        "rating": 0
+    },
+    {
+        "server_name": "BD Lan",
+        "url": "http://bdlan.net/",
+        "type": "movie",
+        "rating": 4
+    },
+    {
+        "server_name": "bdplex",
+        "url": "http://bdplex.net/",
+        "type": "movie",
+        "rating": 0
+    },
+    {
+        "server_name": "BinodonMela",
+        "url": "http://binodonmela.net/",
+        "type": "movie",
+        "rating": 2
+    },
+    {
+        "server_name": "Bioscope Live",
+        "url": "https://bioscopelive.com/",
+        "type": "tv",
+        "rating": 3
+    },
+    {
+        "server_name": "BongoBD",
+        "url": "https://bongobd.com/",
+        "type": "movie",
+        "rating": 2
+    },
+    {
+        "server_name": "Bonsai HD",
+        "url": "https://www.bonsaihd.fun/",
+        "type": "movie",
+        "rating": 2
+    },
+    {
+        "server_name": "Boss BD FTP",
+        "url": "http://cdn2.bossbd.net/",
+        "type": "ftp",
+        "rating": 4
+    },
+    {
+        "server_name": "Bit Net FTP",
+        "url": "http://dl.bitnetbd.com/",
+        "type": "ftp",
+        "rating": 2
+    },
+    {
+        "server_name": "CandyBD",
+        "url": "http://candybd.net/",
+        "type": "movie",
+        "rating": 3
+    },
+    {
+        "server_name": "Chaya Chobi",
+        "url": "http://chayachobi.net/",
+        "type": "movie",
+        "rating": 0
+    },
+    {
+        "server_name": "Cine Bioscope",
+        "url": "http://www.cinebioscope.com/",
+        "type": "movie",
+        "rating": 4
+    },
+    {
+        "server_name": "Cinema Bazar",
+        "url": "http://cinemabazar.net/",
+        "type": "movie",
+        "rating": 4
+    },
+    {
+        "server_name": "Circle Local",
+        "url": "http://15.1.1.1/",
+        "type": "ftp",
+        "rating": 5
+    },
+    {
+        "server_name": "Circle FTP",
+        "url": "http://circleftp.net/",
+        "type": "ftp",
+        "rating": 5
+    },
+    {
+        "server_name": "Citech Movies",
+        "url": "http://203.83.177.225/",
+        "type": "movie",
+        "rating": 3
+    },
+    {
+        "server_name": "CNet FTP",
+        "url": "http://144.48.110.190:8080/",
+        "type": "ftp",
+        "rating": 3
+    },
+    {
+        "server_name": "Crazy CTG",
+        "url": "http://crazyctg.com/",
+        "type": "movie",
+        "rating": 3
+    },
+    {
+        "server_name": "CTG Box",
+        "url": "http://ctgbox.com/",
+        "type": "tv",
+        "rating": 2
+    },
+    {
+        "server_name": "CTG Flix",
+        "url": "http://www.ctgflix.com/",
+        "type": "movie",
+        "rating": 2
+    },
+    {
+        "server_name": "CTG Fun",
+        "url": "http://ctgfun.com/",
+        "type": "movie",
+        "rating": 2
+    },
+    {
+        "server_name": "CTG Hall",
+        "url": "http://www.ctghall.com/",
+        "type": "movie",
+        "rating": 2
+    },
+    {
+        "server_name": "CTG Hub",
+        "url": "http://www.ctghub.com/",
+        "type": "movie",
+        "rating": 3
+    },
+    {
+        "server_name": "CTG Live",
+        "url": "http://www.ctgtv.live/",
+        "type": "tv",
+        "rating": 1
+    },
+    {
+        "server_name": "CTG Movies",
+        "url": "http://ctgmovies.com/",
+        "type": "movie",
+        "rating": 2
+    },
+    {
+        "server_name": "CTG Stream",
+        "url": "http://ctgstream.com/",
+        "type": "movie",
+        "rating": 2
+    },
+    {
+        "server_name": "DashNet",
+        "url": "http://103.152.18.18/",
+        "type": "movie",
+        "rating": 3
+    },
+    {
+        "server_name": "DFLIX",
+        "url": "http://dflix.live/",
+        "type": "movie",
+        "rating": 2
+    },
+    {
+        "server_name": "DFLIX TV",
+        "url": "http://tv.dflix.live/",
+        "type": "tv",
+        "rating": 3
+    },
+    {
+        "server_name": "Dhaka Movie",
+        "url": "http://www.dhakamovie.com/",
+        "type": "movie",
+        "rating": 3
+    },
+    {
+        "server_name": "Dhaka Movie Tube",
+        "url": "http://dhakamovietube.com/tube/",
+        "type": "movie",
+        "rating": 0
+    },
+    {
+        "server_name": "DNF BD",
+        "url": "http://media.dnfbd.net/",
+        "type": "movie",
+        "rating": 4
+    },
+    {
+        "server_name": "Dream Flix",
+        "url": "http://www.dnftpbd.com/",
+        "type": "movie",
+        "rating": 3
+    },
+    {
+        "server_name": "Earth TV",
+        "url": "http://172.16.29.250/",
+        "type": "tv",
+        "rating": 4
+    },
+    {
+        "server_name": "EBox",
+        "url": "http://www.ebox.live/",
+        "type": "movie",
+        "rating": 3
+    },
+    {
+        "server_name": "EBox FS",
+        "url": "http://fs.ebox.live/",
+        "type": "ftp",
+        "rating": 3
+    },
+    {
+        "server_name": "EBox FTP",
+        "url": "http://fileserver.ebox.live/",
+        "type": "ftp",
+        "rating": 4
+    },
+    {
+        "server_name": "EBox TV",
+        "url": "http://tv.ebox.live/",
+        "type": "tv",
+        "rating": 4
+    },
+    {
+        "server_name": "Ekushe Net",
+        "url": "http://10.100.100.2/",
+        "type": "ftp",
+        "rating": 2
+    },
+    {
+        "server_name": "Elaach",
+        "url": "http://www.elaach.com/",
+        "type": "movie",
+        "rating": 3
+    },
+    {
+        "server_name": "Evolution Net",
+        "url": "http://evonetbd.com/",
+        "type": "movie",
+        "rating": 0
+    },
+    {
+        "server_name": "Evolution Net FTP",
+        "url": "http://fs.evonetbd.com/",
+        "type": "ftp",
+        "rating": 0
+    },
+    {
+        "server_name": "E-Village CTG",
+        "url": "http://fs.evillagectg.com/",
+        "type": "movie",
+        "rating": 0
+    },
+    {
+        "server_name": "Explore Online",
+        "url": "http://103.222.20.150/",
+        "type": "movie",
+        "rating": 3
+    },
+    {
+        "server_name": "FMovies",
+        "url": "https://profmovies.com/",
+        "type": "movie",
+        "rating": 2
+    },
+    {
+        "server_name": "Free Movies Full",
+        "url": "https://freemoviesfull.net/",
+        "type": "streaming",
+        "rating": 4
+    },
+    {
+        "server_name": "FTP BD",
+        "url": "http://ftpbd.com/",
+        "type": "movie",
+        "rating": 5
+    },
+    {
+        "server_name": "FtpBD",
+        "url": "http://ftpbd.net/",
+        "type": "movie",
+        "rating": 5
+    },
+    {
+        "server_name": "FtpBD Index",
+        "url": "http://server2.ftpbd.net/",
+        "type": "movie",
+        "rating": 5
+    },
+    {
+        "server_name": "FtpBD TV",
+        "url": "http://otv.ftpbd.net/",
+        "type": "tv",
+        "rating": 3
+    },
+    {
+        "server_name": "FunTimeBD",
+        "url": "http://www.funtimebd.com/",
+        "type": "movie",
+        "rating": 0
+    },
+    {
+        "server_name": "Furious Net",
+        "url": "http://www.furiousnet.net/ftp/",
+        "type": "ftp",
+        "rating": 0
+    },
+    {
+        "server_name": "GC Global",
+        "url": "http://103.113.16.46/",
+        "type": "movie",
+        "rating": 0
+    },
+    {
+        "server_name": "Gocu",
+        "url": "https://goku.to/home",
+        "type": "streaming",
+        "rating": 5
+    },
+    {
+        "server_name": "IBCCL",
+        "url": "http://103.203.93.2/",
+        "type": "ftp",
+        "rating": 2
+    },
+    {
+        "server_name": "iBox",
+        "url": "http://103.135.208.2/",
+        "type": "movie",
+        "rating": 0
+    },
+    {
+        "server_name": "ICC FTP",
+        "url": "http://10.16.100.244/",
+        "type": "movie",
+        "rating": 5
+    },
+    {
+        "server_name": "ICC TV",
+        "url": "http://10.16.100.244/livetv.php",
+        "type": "tv",
+        "rating": 4
+    },
+    {
+        "server_name": "iflix",
+        "url": "https://piay.iflix.com/",
+        "type": "movie",
+        "rating": 0
+    },
+    {
+        "server_name": "iHub Movie",
+        "url": "http://ihub.live/",
+        "type": "movie",
+        "rating": 4
+    },
+    {
+        "server_name": "iHub TV",
+        "url": "http://tv.ihub.live/",
+        "type": "tv",
+        "rating": 0
+    },
+    {
+        "server_name": "Info Internet Service",
+        "url": "http://103.85.197.10/",
+        "type": "movie",
+        "rating": 0
+    },
+    {
+        "server_name": "Intro Vision",
+        "url": "http://www.theintrovisionbd.com/",
+        "type": "movie",
+        "rating": 0
+    },
+    {
+        "server_name": "Jago BD TV",
+        "url": "http://www.jagobd.com/",
+        "type": "tv",
+        "rating": 2
+    },
+    {
+        "server_name": "JDIX",
+        "url": "http://162.12.215.254",
+        "type": "movie",
+        "rating": 4
+    },
+    {
+        "server_name": "Kalponik",
+        "url": "http://kalponik.net.bd/",
+        "type": "movie",
+        "rating": 4
+    },
+    {
+        "server_name": "Khulna Plex",
+        "url": "http://khulnaplex.net/",
+        "type": "movie",
+        "rating": 4
+    },
+    {
+        "server_name": "Link TV",
+        "url": "http://tv.linktech.net.bd/",
+        "type": "tv",
+        "rating": 0
+    },
+    {
+        "server_name": "Majeda Download Server",
+        "url": "http://172.22.22.101/",
+        "type": "ftp",
+        "rating": 0
+    },
+    {
+        "server_name": "Mars BolBD",
+        "url": "http://mars.bolbd.net/",
+        "type": "movie",
+        "rating": 0
+    },
+    {
+        "server_name": "MediaLink24",
+        "url": "http://medialink24.net/",
+        "type": "movie",
+        "rating": 0
+    },
+    {
+        "server_name": "Mega PlexBD TV",
+        "url": "http://tv.megaplexbd.com/",
+        "type": "tv",
+        "rating": 2
+    },
+    {
+        "server_name": "Midiplex",
+        "url": "http://cdn.midiplex.net/",
+        "type": "ftp",
+        "rating": 0
+    },
+    {
+        "server_name": "Moja Loss",
+        "url": "https://www.mojaloss.stream/",
+        "type": "movie",
+        "rating": 3
+    },
+    {
+        "server_name": "Mojar FTP",
+        "url": "https://www.mojarftp.com/",
+        "type": "movie",
+        "rating": 0
+    },
+    {
+        "server_name": "Movie4K to",
+        "url": "https://movie4kto.net/",
+        "type": "streaming",
+        "rating": 4
+    },
+    {
+        "server_name": "MoviesHD",
+        "url": "https://movieshd.watch/",
+        "type": "streaming",
+        "rating": 4
+    },
+    {
+        "server_name": "Movie City",
+        "url": "http://59.152.96.75/",
+        "type": "movie",
+        "rating": 3
+    },
+    {
+        "server_name": "Movie Box FTP",
+        "url": "http://db1.movieboxbd.com/RDMS/",
+        "type": "ftp",
+        "rating": 3
+    },
+    {
+        "server_name": "Movie Box BD",
+        "url": "http://movieboxbd.com/",
+        "type": "movie",
+        "rating": 3
+    },
+    {
+        "server_name": "Movies by 4D",
+        "url": "http://www.movieserver.net/",
+        "type": "movie",
+        "rating": 1
+    },
+    {
+        "server_name": "Movie Haat",
+        "url": "http://moviehaat.net/",
+        "type": "movie",
+        "rating": 1
+    },
+    {
+        "server_name": "MTube",
+        "url": "http://mtub.bdfun.club/",
+        "type": "movie",
+        "rating": 2
+    },
+    {
+        "server_name": "MLSBD",
+        "url": "https://mlsbd.co/",
+        "type": "streaming",
+        "rating": 4
+    },
+    {
+        "server_name": "My BDIX",
+        "url": "http://mybdix.com/",
+        "type": "movie",
+        "rating": 2
+    },
+    {
+        "server_name": "Natural BD",
+        "url": "http://www.naturalbd.com/",
+        "type": "movie",
+        "rating": 2
+    },
+    {
+        "server_name": "Net Matrix",
+        "url": "http://media.netmatrixbd.com/",
+        "type": "movie",
+        "rating": 5
+    },
+    {
+        "server_name": "KS Network",
+        "url": "http://172.27.27.83/",
+        "type": "movie",
+        "rating": 4
+    },
+    {
+        "server_name": "Quick Online",
+        "url": "http://quickonlineftp.com/",
+        "type": "movie",
+        "rating": 3
+    },
+    {
+        "server_name": "Rainbow Networks",
+        "url": "http://cinemacity.live/",
+        "type": "movie",
+        "rating": 3
+    },
+    {
+        "server_name": "Roar Media TV",
+        "url": "http://roarmediazone.com/live-tv.html",
+        "type": "tv",
+        "rating": 3
+    },
+    {
+        "server_name": "RoarZone Play",
+        "url": "https://play.roarmediazone.com/",
+        "type": "movie",
+        "rating": 4
+    },
+    {
+        "server_name": "RoarZone FTP",
+        "url": "http://cdn.roarmediazone.com/",
+        "type": "movie",
+        "rating": 3
+    },
+    {
+        "server_name": "RoarZone",
+        "url": "http://cdn.roarzone.info/",
+        "type": "ftp",
+        "rating": 3
+    },
+    {
+        "server_name": "RoarZone TV",
+        "url": "http://tv.roarzone.info/",
+        "type": "tv",
+        "rating": 3
+    },
+    {
+        "server_name": "SAM Online",
+        "url": "http://172.16.50.4/",
+        "type": "tv",
+        "rating": 5
+    },
+    {
+        "server_name": "SAM FTP 1 ",
+        "url": "http://172.16.50.5/",
+        "type": "ftp",
+        "rating": 5
+    },
+    {
+        "server_name": "SAM FTP 2",
+        "url": "http://172.16.50.4/",
+        "type": "ftp",
+        "rating": 5
+    },
+    {
+        "server_name": "SAM FTP 3",
+        "url": "http://172.16.50.6/",
+        "type": "ftp",
+        "rating": 5
+    },
+    {
+        "server_name": "SAM Live TV",
+        "url": "http://172.16.50.2/",
+        "type": "tv",
+        "rating": 4
+    },
+    {
+        "server_name": "Seba IT",
+        "url": "http://103.195.1.50/",
+        "type": "movie",
+        "rating": 2
+    },
+    {
+        "server_name": "Showtime BD",
+        "url": "http://www.showtimebd.com/",
+        "type": "movie",
+        "rating": 3
+    },
+    {
+        "server_name": "Skynet",
+        "url": "http://skynet.com.bd/ftp/",
+        "type": "ftp",
+        "rating": 2
+    },
+    {
+        "server_name": "Small Screen",
+        "url": "http://103.2.226.208/",
+        "type": "movie",
+        "rating": 1
+    },
+    {
+        "server_name": "SmilePlex",
+        "url": "http://smileplex.net:8096/web/home.html",
+        "type": "movie",
+        "rating": 3
+    },
+    {
+        "server_name": "Smrity Cable",
+        "url": "https://www.smritycable.com/",
+        "type": "movie",
+        "rating": 2
+    },
+    {
+        "server_name": "SparkleMovies",
+        "url": "http://160.202.146.220/",
+        "type": "movie",
+        "rating": 1
+    },
+    {
+        "server_name": "Starplex",
+        "url": "http://172.27.27.1/",
+        "type": "movie",
+        "rating": 3
+    },
+    {
+        "server_name": "SunPlex",
+        "url": "http://sunplex.net/",
+        "type": "movie",
+        "rating": 4
+    },
+    {
+        "server_name": "Surzo Mama",
+        "url": "http://103.85.235.254/",
+        "type": "movie",
+        "rating": 0
+    },
+    {
+        "server_name": "Talmuri Local FTP",
+        "url": "http://45.250.20.19/",
+        "type": "ftp",
+        "rating": 0
+    },
+    {
+        "server_name": "Timepass FTP",
+        "url": "http://ftp.timepassbd.live/",
+        "type": "ftp",
+        "rating": 0
+    },
+    {
+        "server_name": "VDO mela",
+        "url": "http://vdomela.com/",
+        "type": "movie",
+        "rating": 2
+    },
+    {
+        "server_name": "UCL Live TV",
+        "url": "http://tv.unifiedcore.net/",
+        "type": "tv",
+        "rating": 0
+    },
+    {
+        "server_name": "Unique FTP",
+        "url": "http://103.92.144.230/",
+        "type": "movie",
+        "rating": 0
+    }
+]

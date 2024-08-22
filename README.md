@@ -1,19 +1,11 @@
-<img src="https://markcite.com/wp-content/uploads/2020/07/MarkCite-Logo-360x120-bnw.png" width="360">
+# BDIX Server List
 
-# 🔭 MarkCite
+A Carefully curated and maintained list of popular BDIX servers in Bangladesh.
 
-At MarkCite, we have various smaller products that we believe are better to share with the community. So that everyone may collaborate and we can learn alongside too.
+This repo is maintained by [@srshazin](https://www.github.com/srshazin) for the mobile app [BDIX Finder](https://shazin.me/bdix)
 
-We will publish some of the essential APIs and scripts that support our products, such as MarkCite Tools, SciRx, SmartPedi, and others, in this repository.
+<img src="https://shazin.me/bdix/logo.svg" width="100px" height="100px"/>
 
-
-## Contributing
-
-Contributions are always welcome! 
-
-Create a branch, add commits, and open a pull request.
-
-
-## Authors
+## Original Author
 
 - [@Ashonko](https://www.github.com/Ashonko)
